@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\bin\Debug\net8.0\exercico5.exe
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\bin\Debug\net8.0\exercico5.deps.json
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\bin\Debug\net8.0\exercico5.runtimeconfig.json
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\bin\Debug\net8.0\exercico5.dll
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\bin\Debug\net8.0\exercico5.pdb
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\obj\Debug\net8.0\exercico5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\obj\Debug\net8.0\exercico5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\obj\Debug\net8.0\exercico5.AssemblyInfo.cs
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\obj\Debug\net8.0\exercico5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\obj\Debug\net8.0\exercico5.sourcelink.json
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\obj\Debug\net8.0\exercico5.dll
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\obj\Debug\net8.0\refint\exercico5.dll
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\obj\Debug\net8.0\exercico5.pdb
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\obj\Debug\net8.0\exercico5.genruntimeconfig.cache
+C:\Users\User\Desktop\programacao-procedural\Listas\lista5\exercico5\obj\Debug\net8.0\ref\exercico5.dll
