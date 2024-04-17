@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\obj\Debug\net8.0\exercicio 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\obj\Debug\net8.0\exercicio 3.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\obj\Debug\net8.0\exercicio 3.AssemblyInfo.cs
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\obj\Debug\net8.0\exercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\obj\Debug\net8.0\exercicio 3.sourcelink.json
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\bin\Debug\net8.0\exercicio 3.exe
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\bin\Debug\net8.0\exercicio 3.deps.json
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\bin\Debug\net8.0\exercicio 3.runtimeconfig.json
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\bin\Debug\net8.0\exercicio 3.dll
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\bin\Debug\net8.0\exercicio 3.pdb
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\obj\Debug\net8.0\exercicio 3.dll
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\obj\Debug\net8.0\refint\exercicio 3.dll
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\obj\Debug\net8.0\exercicio 3.pdb
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\obj\Debug\net8.0\exercicio 3.genruntimeconfig.cache
+C:\Users\User\Desktop\programacao-procedural\Listas\lista7\exercicio 3\obj\Debug\net8.0\ref\exercicio 3.dll

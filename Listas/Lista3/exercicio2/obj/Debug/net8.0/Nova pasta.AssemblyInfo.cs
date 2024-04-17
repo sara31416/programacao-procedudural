@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nova pasta")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e42ca6ae9bd1a5575906017acfead8ffb606a57")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9704aef451982a37f255c6a4fdc4ad4efad9267f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nova pasta")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nova pasta")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

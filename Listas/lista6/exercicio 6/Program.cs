@@ -11,10 +11,13 @@ class Program
         {
             for (int coluna = 0; coluna < TAMANHO_MATRIZ; coluna++)
             {
+                Console.WriteLine("Digite os numero que deseja inserir na matriz");
                 matriz[linha, coluna] = Convert.ToInt32(Console.ReadLine());
             }
         }
-
+        
+        Console.WriteLine("Digite um numero correspondente a ação que deseja executar");
+        
         System.Console.WriteLine("[1]-Imprimir todos os elementos da matriz");
         System.Console.WriteLine("[2]-Somar todos os elementos e exibir o resultado");
         System.Console.WriteLine("[3]-Somar todos os elementos da terceira linha (linha de índice 2) e exibir o resultado");
